@@ -1,3 +1,4 @@
+//
 class Solution:
     # @param A : string
     # @param B : integer

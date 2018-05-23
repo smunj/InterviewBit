@@ -1,3 +1,4 @@
+//
 void Solution::merge(vector<int> &A, vector<int> &B) {
     // Do not write main() function.
     // Do not read input, instead use the arguments to the function.
